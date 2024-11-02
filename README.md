@@ -46,4 +46,30 @@ Ensure you have **Node.js** installed. You can download it from [Node.js](https:
 1. Clone the repository:
    ```bash
    git clone https://github.com/TriTruong666/E-commercial-Project.git
+   cd CloneFE
+
    ```
+2. Install the project dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running the Project
+
+To start the development server:
+
+1. Run the following command in your terminal:
+
+   ```bash
+   npm run dev
+
+   ```
+
+2. Open your browser and go to:
+   ```plaintext
+   http://localhost:3000
+   or as specified by your development server's output.
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue for any improvements or bugs.
