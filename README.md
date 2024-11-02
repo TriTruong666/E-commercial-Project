@@ -1,9 +1,49 @@
-# React + Vite
+# Accessories Web Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Accessories Web Project! This project is designed to provide users with an engaging interface to browse and purchase a variety of accessories. Built with modern web technologies, this project offers a seamless shopping experience.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# CodeFrontEnd
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Running the Project](#running-the-project)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Overview
+
+This web application allows users to explore and purchase accessories online. It includes features such as product browsing, filtering, adding to cart, and user authentication.
+
+## Features
+
+- User authentication and authorization
+- Product catalog with detailed views
+- Cart and checkout system
+- Responsive design
+- Search and filter functionality
+
+## Technologies Used
+
+- **Frontend**: React, React Router, Axios, Tanstack(React-query)
+- **Backend**: Java Spring Boot
+- **Database**: SQL Server
+- **State Management**: Redux
+- **Styling**: SASS
+
+## Getting Started
+
+To get a local copy of this project up and running, follow these steps.
+
+### Prerequisites
+
+Ensure you have **Node.js** installed. You can download it from [Node.js](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TriTruong666/E-commercial-Project.git
+   ```
